@@ -98,7 +98,7 @@ Sentiment-Analysis-Restaurant-Reviews
 ### 1️⃣ Clone the Repository
 
 ```
-git clone https://github.com/your-username/sentiment-analysis-restaurant-reviews.git
+git clone https://github.com/Shivam22601/sentiment-analysis-restaurant-reviews.git
 ```
 
 ---
